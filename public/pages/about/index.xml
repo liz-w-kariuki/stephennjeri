@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Stephen Njeri</title>
-    <link>http://localhost:1313/stephennjeri/pages/about/</link>
+    <link>http://localhost:1313/pages/about/</link>
     <description>Recent content in About on Stephen Njeri</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/stephennjeri/pages/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Limits</title>
-      <link>http://localhost:1313/stephennjeri/pages/about/content1/</link>
+      <link>http://localhost:1313/pages/about/content1/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/stephennjeri/pages/about/content1/</guid>
+      <guid>http://localhost:1313/pages/about/content1/</guid>
       <description>&lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Integrity &amp; Performance</title>
-      <link>http://localhost:1313/stephennjeri/pages/about/content2/</link>
+      <link>http://localhost:1313/pages/about/content2/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/stephennjeri/pages/about/content2/</guid>
+      <guid>http://localhost:1313/pages/about/content2/</guid>
       <description>&lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Giving Back</title>
-      <link>http://localhost:1313/stephennjeri/pages/about/content3/</link>
+      <link>http://localhost:1313/pages/about/content3/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/stephennjeri/pages/about/content3/</guid>
+      <guid>http://localhost:1313/pages/about/content3/</guid>
       <description>&lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.&lt;/p&gt;</description>
     </item>
   </channel>
