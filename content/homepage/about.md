@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'Ready to Drive with Confidence?'
 weight: 2
 background: ''
-button: 'About Us'
-buttonLink: 'about'
+button: 'Contact'
+buttonLink: 'contact'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Ready to navigate Toronto's bustling streets and earn your G Licence? Stop dreaming and start driving! With personalized one-on-one instruction tailored to Toronto's unique traffic and test routes, you'll gain the skills and confidence needed to pass your G1 exit or full G road test. Don't wait – book your first lesson today and experience the difference of dedicated, expert guidance right here in the GTA. 
