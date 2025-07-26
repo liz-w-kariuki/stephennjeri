@@ -1,60 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Stephen Njeri</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Stephen Njeri</description>
+    <title>Home on Hugo Hero Theme</title>
+    <link>http://localhost:36681/</link>
+    <description>Recent content in Home on Hugo Hero Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36681/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Limits</title>
-      <link>http://localhost:1313/pages/about/content1/</link>
+      <link>http://localhost:36681/content1/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/pages/about/content1/</guid>
+      <guid>http://localhost:36681/content1/</guid>
       <description>&lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beginner Driving Lessons</title>
-      <link>http://localhost:1313/services/beginner/</link>
+      <link>http://localhost:36681/services/beginner/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/beginner/</guid>
+      <guid>http://localhost:36681/services/beginner/</guid>
       <description>&lt;p&gt;For new drivers in Toronto, embark on a driving adventure with comprehensive beginner lessons, specifically designed for those working towards a G2 licence. I will guide you through the fundamental aspects of driving, starting from basic vehicle controls, steering techniques, and understanding Toronto&amp;rsquo;s specific road signs and traffic laws. The curriculum meticulously covers all the required skills to pass this test, including turns, lane changes, basic parking, and navigating intersections safely within the Toronto area.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Integrity &amp; Performance</title>
-      <link>http://localhost:1313/pages/about/content2/</link>
+      <link>http://localhost:36681/content2/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/pages/about/content2/</guid>
+      <guid>http://localhost:36681/content2/</guid>
       <description>&lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Refresher Driving Lessons</title>
-      <link>http://localhost:1313/services/refresher/</link>
+      <link>http://localhost:36681/services/refresher/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/refresher/</guid>
+      <guid>http://localhost:36681/services/refresher/</guid>
       <description>&lt;p&gt;If you haven&amp;rsquo;t driven in a while, feel a bit rusty, or simply want to boost your confidence on the roads, refresher driving lessons are perfect for you. Whether you hold a G2 or a full G licence, I will help you brush up on your skills, re-familiarize you with current road rules and regulations, and tackle any specific areas where you feel less confident, such as downtown Toronto driving, parallel parking, or highway merges. We will work at your pace to ensure you feel completely comfortable and safe behind the wheel again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Giving Back</title>
-      <link>http://localhost:1313/pages/about/content3/</link>
+      <link>http://localhost:36681/content3/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/pages/about/content3/</guid>
+      <guid>http://localhost:36681/content3/</guid>
       <description>&lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Sarah L</title>
+      <link>http://localhost:36681/work/cargo-terminal/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:36681/work/cargo-terminal/</guid>
+      <description>&lt;p&gt;I was so nervous about my G2 test in Toronto, but stephen made all the difference! The lessons were incredibly thorough, covering all the unique challenges of driving here. I felt completely prepared for the G2 road test, even navigating busy intersections and parallel parking in a tight spot. Passed on my first try! Highly recommend for anyone learning to drive in Toronto.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sarah L&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>History</title>
-      <link>http://localhost:1313/pages/history/</link>
+      <link>http://localhost:36681/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
-      <guid>http://localhost:1313/pages/history/</guid>
+      <guid>http://localhost:36681/history/</guid>
       <description>&lt;h1 id=&#34;about-heading&#34;&gt;About Heading&lt;/h1&gt;&#xA;&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;strip bg-cover bg-position-center bg-overlay pt-15 pb-15&#34; style=&#34;background-image: url(&#39; https://source.unsplash.com/zglUlG8k47I/1600x500 &#39;);&#34;&gt;&#xA;  &lt;div class=&#34;container&#34;&gt;&#xA;    &lt;div class=&#34;row&#34;&gt;&#xA;      &lt;div class=&#34;col-12 col-md-6&#34;&gt;&#xA;          &lt;p&gt;Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.&lt;/p&gt;&#xA;&#xA;          &#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &#xA;  &#xA;&#xA;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Driving Test Preparation</title>
-      <link>http://localhost:1313/services/preparation/</link>
+      <link>http://localhost:36681/services/preparation/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      <guid>http://localhost:1313/services/preparation/</guid>
+      <guid>http://localhost:36681/services/preparation/</guid>
       <description>&lt;p&gt;To maximize your chances of passing your G2 or full G road test in Toronto, utilize specialized test preparation sessions. I offer mock tests conducted on actual or similar routes used by Toronto&amp;rsquo;s DriveTest Centres, giving you invaluable experience. You&amp;rsquo;ll receive detailed feedback on your performance, highlighting areas for improvement and offering specific tips to avoid common errors that can lead to failure. The focus is on teaching you exactly what examiners look for, ensuring you demonstrate safe driving habits, excellent observation skills, and strict adherence to the Highway Traffic Act, so you can ace your test with confidence.&lt;/p&gt;</description>
     </item>
   </channel>

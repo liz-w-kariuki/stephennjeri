@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Stephen Njeri</title>
-    <link>http://localhost:1313/services/</link>
-    <description>Recent content in Services on Stephen Njeri</description>
+    <title>Services on Hugo Hero Theme</title>
+    <link>http://localhost:36681/services/</link>
+    <description>Recent content in Services on Hugo Hero Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:15:34 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:36681/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beginner Driving Lessons</title>
-      <link>http://localhost:1313/services/beginner/</link>
+      <link>http://localhost:36681/services/beginner/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/beginner/</guid>
-      <description>&lt;p&gt;For new drivers in Toronto, embark on a driving adventure with comprehensive beginner lessons, specifically designed for those working towards a G1 and G2 licence. I will guide you through the fundamental aspects of driving, starting from basic vehicle controls, steering techniques, and understanding Toronto&amp;rsquo;s specific road signs and traffic laws. A strong foundation is built, ensuring you&amp;rsquo;re confident and prepared for your G1 exit road test, which grants the G2 licence. The curriculum meticulously covers all the required skills to pass this test, including turns, lane changes, basic parking, and navigating intersections safely within the Toronto area.&lt;/p&gt;</description>
+      <guid>http://localhost:36681/services/beginner/</guid>
+      <description>&lt;p&gt;For new drivers in Toronto, embark on a driving adventure with comprehensive beginner lessons, specifically designed for those working towards a G2 licence. I will guide you through the fundamental aspects of driving, starting from basic vehicle controls, steering techniques, and understanding Toronto&amp;rsquo;s specific road signs and traffic laws. The curriculum meticulously covers all the required skills to pass this test, including turns, lane changes, basic parking, and navigating intersections safely within the Toronto area.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Refresher Driving Lessons</title>
-      <link>http://localhost:1313/services/refresher/</link>
+      <link>http://localhost:36681/services/refresher/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/refresher/</guid>
+      <guid>http://localhost:36681/services/refresher/</guid>
       <description>&lt;p&gt;If you haven&amp;rsquo;t driven in a while, feel a bit rusty, or simply want to boost your confidence on the roads, refresher driving lessons are perfect for you. Whether you hold a G2 or a full G licence, I will help you brush up on your skills, re-familiarize you with current road rules and regulations, and tackle any specific areas where you feel less confident, such as downtown Toronto driving, parallel parking, or highway merges. We will work at your pace to ensure you feel completely comfortable and safe behind the wheel again.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Driving Test Preparation</title>
-      <link>http://localhost:1313/services/preparation/</link>
+      <link>http://localhost:36681/services/preparation/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      <guid>http://localhost:1313/services/preparation/</guid>
-      <description>&lt;p&gt;To maximize your chances of passing a G1 exit (G2) or full G road test in Toronto, utilize specialized test preparation sessions. I offer mock tests conducted on actual or similar routes used by Toronto&amp;rsquo;s DriveTest Centres, giving you invaluable experience. You&amp;rsquo;ll receive detailed feedback on your performance, highlighting areas for improvement and offering specific tips to avoid common errors that can lead to failure. The focus is on teaching you exactly what examiners look for, ensuring you demonstrate safe driving habits, excellent observation skills, and strict adherence to the Highway Traffic Act, so you can ace your test with confidence.&lt;/p&gt;</description>
+      <guid>http://localhost:36681/services/preparation/</guid>
+      <description>&lt;p&gt;To maximize your chances of passing your G2 or full G road test in Toronto, utilize specialized test preparation sessions. I offer mock tests conducted on actual or similar routes used by Toronto&amp;rsquo;s DriveTest Centres, giving you invaluable experience. You&amp;rsquo;ll receive detailed feedback on your performance, highlighting areas for improvement and offering specific tips to avoid common errors that can lead to failure. The focus is on teaching you exactly what examiners look for, ensuring you demonstrate safe driving habits, excellent observation skills, and strict adherence to the Highway Traffic Act, so you can ace your test with confidence.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

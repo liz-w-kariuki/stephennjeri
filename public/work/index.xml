@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Testimonials on Stephen Njeri</title>
-    <link>http://localhost:1313/work/</link>
-    <description>Recent content in Testimonials on Stephen Njeri</description>
+    <title>Testimonials on Hugo Hero Theme</title>
+    <link>http://localhost:36681/work/</link>
+    <description>Recent content in Testimonials on Hugo Hero Theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Nov 2018 12:33:46 +1000</lastBuildDate>
+    <atom:link href="http://localhost:36681/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sarah L</title>
+      <link>http://localhost:36681/work/cargo-terminal/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:36681/work/cargo-terminal/</guid>
+      <description>&lt;p&gt;I was so nervous about my G2 test in Toronto, but stephen made all the difference! The lessons were incredibly thorough, covering all the unique challenges of driving here. I felt completely prepared for the G2 road test, even navigating busy intersections and parallel parking in a tight spot. Passed on my first try! Highly recommend for anyone learning to drive in Toronto.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Sarah L&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>

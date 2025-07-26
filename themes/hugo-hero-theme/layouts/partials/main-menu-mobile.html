@@ -1,5 +1,6 @@
 <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
+    {{ len .Site.Menus.main }} <!-- Should print a number > 0 -->
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
     <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
@@ -11,3 +12,4 @@
     {{end}}
   </ul>
 </div>
+
