@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:36681/content1/</loc>
+    <loc>http://localhost:1313/content1/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/services/beginner/</loc>
+    <loc>http://localhost:1313/services/beginner/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/content2/</loc>
+    <loc>http://localhost:1313/content2/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/services/refresher/</loc>
+    <loc>http://localhost:1313/services/refresher/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/content3/</loc>
+    <loc>http://localhost:1313/content3/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/work/cargo-terminal/</loc>
+    <loc>http://localhost:1313/work/cargo-terminal/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/services/</loc>
+    <loc>http://localhost:1313/services/</loc>
     <lastmod>2025-07-13T11:52:18+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/work/</loc>
+    <loc>http://localhost:1313/work/</loc>
     <lastmod>2025-07-13T11:52:18+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/404/</loc>
+    <loc>http://localhost:1313/404/</loc>
     <lastmod>2025-07-13T10:52:03+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/pages/about/</loc>
+    <loc>http://localhost:1313/pages/about/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/history/</loc>
+    <loc>http://localhost:1313/history/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/pages/</loc>
+    <loc>http://localhost:1313/pages/</loc>
     <lastmod>2018-12-06T09:29:16+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/services/preparation/</loc>
+    <loc>http://localhost:1313/services/preparation/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2018-02-12T15:37:57+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:36681/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:36681/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
